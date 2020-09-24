@@ -1,0 +1,10 @@
+C:\Users\Ray\Desktop\打磚塊\H005\H005\H005\bin\Debug\H005.exe.config
+C:\Users\Ray\Desktop\打磚塊\H005\H005\H005\bin\Debug\H005.exe
+C:\Users\Ray\Desktop\打磚塊\H005\H005\H005\bin\Debug\H005.pdb
+C:\Users\Ray\Desktop\打磚塊\H005\H005\H005\obj\Debug\project01.csprojAssemblyReference.cache
+C:\Users\Ray\Desktop\打磚塊\H005\H005\H005\obj\Debug\H005.Form1.resources
+C:\Users\Ray\Desktop\打磚塊\H005\H005\H005\obj\Debug\H005.Properties.Resources.resources
+C:\Users\Ray\Desktop\打磚塊\H005\H005\H005\obj\Debug\project01.csproj.GenerateResource.cache
+C:\Users\Ray\Desktop\打磚塊\H005\H005\H005\obj\Debug\project01.csproj.CoreCompileInputs.cache
+C:\Users\Ray\Desktop\打磚塊\H005\H005\H005\obj\Debug\H005.exe
+C:\Users\Ray\Desktop\打磚塊\H005\H005\H005\obj\Debug\H005.pdb
